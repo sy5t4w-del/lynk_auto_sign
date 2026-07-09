@@ -499,6 +499,7 @@ A: 至少 2 个。一个主账号 A 创建 shareCode，一个 B 账号点击 H5 
 | 微信赞赏 | 备注 |
 |:---:|:---|
 | ![donate](donate.png) | 赞赏后请加作者微信 (见 license.txt 里的 user 字段), 发送截图领取 license |
+| ![image-20260709144314204](https://blog-1254096303.cos.ap-chengdu.myqcloud.com/blog/image-20260709144314204.png) | 扫码联系作者 |
 
 **捐赠后获取 license**：
 
